@@ -16,7 +16,7 @@ image: /assets/images/posts/2019-05-21-a-standard-interface-for-service-meshes/s
 
 As a prominent supporter of management software for multiple service meshes, Layer5 is pleased to partner with Microsoft in support of the [Service Mesh Interface](https://smi-spec.io) (SMI). The Service Mesh Interface is a specification for service meshes that run on Kubernetes. As such, SMI defines a common standard that can be implemented by a variety of service mesh projects and vendors.
 
-Like standards before SMI, consistent APIs inspire confidence in infrastructure stability, community-managed APIs assuage technology and vendor lock-in concerns, and steward the resounding of core use cases, resulting in streamlining the smaller, but critical-to-users, subset of capabilities offered across the [service mesh landscape](https://layer5.io/landscape). 
+Like <test> standards before SMI, consistent APIs inspire confidence in infrastructure stability, community-managed APIs assuage technology and vendor lock-in concerns, and steward the resounding of core use cases, resulting in streamlining the smaller, but critical-to-users, subset of capabilities offered across the [service mesh landscape](https://layer5.io/landscape). 
 
 Meshery and SMI are aligned on common goals of getting users started quickly, understanding that users want service mesh technology, but have questions as to which service mesh use, how, and when to get started through a common interface. Meshery’s playground capabilities quick provision a variety of service meshes and reduce time to value and time to understanding for those adopting a service mesh.
 
